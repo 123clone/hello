@@ -10,5 +10,7 @@ function Sum2Num(int a, int b){
 }
 
 int main() {
-	printf("Hello world!");
+	printf("Hello world!"); // Say something!
+    printf(Diff2Num(123, 456));
+    return 0;
 }
