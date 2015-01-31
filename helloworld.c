@@ -13,6 +13,8 @@ int main() {
     return 0;
 }
 
+
+// Commented by Vũ Nhân.
 function Sum2Num(int a, int b){
     return(a + b);
 }
