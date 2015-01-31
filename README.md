@@ -1,21 +1,23 @@
 ### Xin chào thế giới!!!! Hehehe
-i don't know why
-but i try
-to pull
-i don't know why
-i write
-i push
-i pull
-then
+
+World in a Pen
+Once I went looking for the world,
+only it wasn't in.
+
+There was only me, behind a barred door,
+staring and not answering.
 
 No key, no reply, nothing to say,
+no idea what to say.
 
-then
-then
-i open mergetool
-thank god for you
-CLEANING MY
->>>>HEAD
-MY DIRTY >>>>>>HEAD
-are we done now?
-can i ever really quit you?
+The next day,
+hidden under the door mat,
+on a folded piece of notebook paper,
+
+I found the answer.
+
+No, no I didn't,
+Well one can dream!
+
+
+Copy-er: Truong Trung Hieu
